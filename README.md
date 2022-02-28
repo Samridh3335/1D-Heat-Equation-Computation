@@ -8,7 +8,7 @@ Case 1:
 - alpha    = 1
 
 Case 2: 
-- T(x,t=0) = 6/*/sin(pi*x/L)
+- T(x,t=0) = 6*sin(pi*x/L)
 - T(x=0,t) = 0
 - T(x=1,t) = 0
 - alpha    = 1
